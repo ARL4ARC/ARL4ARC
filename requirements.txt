@@ -18,7 +18,7 @@ matplotlib==3.1.2
 mock==3.0.5
 mpi4py==3.0.3
 nashpy==0.0.19
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.1.2.30
 opt-einsum==3.1.0
 pandas==0.25.3
